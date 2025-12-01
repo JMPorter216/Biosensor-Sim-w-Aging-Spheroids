@@ -18,7 +18,7 @@ This Python code is designed to simulate SPR measurements in response to hormone
 - Core model
 - Inputs
 - Outputs
-- Demo: [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.2i2c.mybinder.org/user/jmporter216-bio-aging-spheroids-efdpkxtc/doc/tree/gompertz_growth_demo.ipynb)
+- Demo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JMPorter216/Biosensor-Sim-w-Aging-Spheroids/f7351ac1700842a8e75c48aa0ec03fedbf7fa08d?urlpath=lab%2Ftree%2Fgompertz_growth_demo.ipynb)
 
 
 
