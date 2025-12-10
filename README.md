@@ -21,18 +21,20 @@ This Python code is designed to simulate SPR measurements in response to hormone
 
 ## Expected results & metrics
 
- - example metrics, peak change etc
+ - Tune Gompertz paramters for spheroid size vs time ('aging')
+ - Set basic SPR run parameters
+ - Determine spheroid stimulation protocol (concentration, time)
 
 ## Results
 
- - files: ex. 123
+ - Produces simulated SPR Sensorgram with RU shift based on hormone detection from spheroid simulation
 
 ## Project Layout
 
- - source
- - eamples
- - outputs
- - tests
+ - Gompertz growth function
+ - SPR simulator
+ - Stimulation protocol
+ - Analyte quantification
 
 ## Data and Regulatory Note
 
