@@ -9,9 +9,6 @@ This Python code is designed to simulate SPR measurements in response to hormone
 - Reproducibility: install dependencies with pip install ~r requirements.txt
 - Tested with Python 3.11
 
-## Quick Start
-
-3 commands
 
 ## What this does/approach
 
