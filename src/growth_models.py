@@ -1,6 +1,4 @@
 import numpy as np
-import matplotlib
-matplotlib.use('TkAgg') # Use TkAgg backend for plotting
 import matplotlib.pyplot as plt
 
 class GompertzGrowth:
@@ -35,10 +33,6 @@ class GompertzGrowth:
     
     def plot(self, t: np.ndarray) -> None:
         values = self.evaluate(t)
-
-        fig = plt.figure()
-        fig.canvas.manager.set_window_title("Spheroid Growth vs. Time (Gompertz Model)")
-
         plt.plot(t, values)
         plt.title("Spheroid Growth vs. Time (Gompertz Model)")
         plt.xlabel("Time")
